@@ -1,0 +1,6 @@
+Implement ONLY docs/features/FEAT-000X.md.
+Follow the plan in FEAT-000X_PRECHECK.md.
+Write code with minimal changes outside impacted components.
+Add the required tests (T-1, T-2).
+Update docs/DATA_MODEL.md and docs/DECISIONS.md ONLY if necessary, with clear reasons.
+Before final completion, validate and report status against docs/DEFINITION_OF_DONE.md.

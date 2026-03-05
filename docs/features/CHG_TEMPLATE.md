@@ -1,0 +1,26 @@
+# CHG-000X - <Change Title>
+
+## Goal
+
+## Applies To
+- FEAT-XXXX ...
+
+## Scope
+IN SCOPE:
+- ...
+
+OUT OF SCOPE:
+- ...
+
+## Technical Requirements
+- ...
+
+## Tests Required
+- T-1 ...
+- T-2 ...
+
+## Completion Criteria
+- ...
+
+## Implementation Updates (Post-Approval)
+- ...

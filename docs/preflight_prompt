@@ -1,0 +1,8 @@
+Read docs/PRD.md, docs/ARCHITECTURE.md, docs/DATA_MODEL.md, docs/DECISIONS.md and docs/features/FEAT-000X.md.
+Create docs/features/FEAT-000X_PRECHECK.md with:
+1) Potential regressions with existing features
+2) Architectural drift risks (violations of decisions)
+3) Data model drift risks
+4) Implementation plan (steps)
+5) Test plan (T-1 and T-2) with concrete scenarios
+Do not write code yet.
