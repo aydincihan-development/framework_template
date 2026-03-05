@@ -29,6 +29,23 @@ This folder is a reusable starter for controlled human + AI software development
 - Framework usage guide (`USER_GUIDE`)
 - Baseline architecture/product/data/decision templates
 
+## Baseline defaults
+This template ships with a baseline architecture/decision set:
+- Next.js + Supabase
+- MUI UI standard
+- MUI X DataGrid and MUI X Charts defaults
+- Docs-driven delivery governance
+
+You can override any baseline in your project, but record changes in `docs/DECISIONS.md`.
+
 ## Recommended first adaptation
 - Update naming conventions for your domain in `docs/features/_TEMPLATE.md`
 - Replace sample test mappings in `docs/TEST_STRATEGY.md` with your actual test files
+
+## Versioning and releases
+- Use semantic versioning for this template:
+  - `MAJOR`: breaking framework process/structure changes
+  - `MINOR`: backward-compatible governance/template additions
+  - `PATCH`: fixes and clarifications
+- Track changes in `CHANGELOG.md`
+- Store release notes in `docs/releases/` (example: `docs/releases/v0.1.0.md`)
